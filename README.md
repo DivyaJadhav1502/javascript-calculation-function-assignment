@@ -1,1 +1,1 @@
-# javascript-calculation-function-assignmenttion
+# javascript-calculation-function-assignment
